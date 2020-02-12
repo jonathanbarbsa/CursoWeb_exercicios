@@ -20,5 +20,4 @@ console . log ( produto )
 produto . preco  = null // sem preço
 console . log ( !! produto . preco )
 console . log ( produto )
-
 // save
