@@ -1,0 +1,67 @@
+→ COMENTÁRIOS:
+
+ALGORITIMO: Sequência de passos que faz um determinado processamento. Ex: Sair de casa e fazer um percurso para o shopping.
+Algoritimo pode ter repetição, decisão e sequências. 
+
+Estrutura de dados: Organizar e administrar os dados e trazer as regras.
+Conceito da programação: VARIÁVEIS e CONSTANTES.
+
+ORGANIZAÇÃO BÁSICA DE UM CÓDIGO JS.
+
+JS é organizado por setença de código e bloco de código.
+
+→ PARA APRENDER:
+
+Frontend- é a parte da aplicação executada no browser do usuário
+Backend-  o código executado no lado do servidor
+
+Comentário no JS: /* */
+
+→ VARIÁVEIS E CONSTANTES
+
+var a = 3 
+Acima vemos umos uma atribuição e não uma comparação.
+
+var                 a                  =                                    3 
+(variavel)  (identificador)   (símbolo de atribuição)   (valor que quero atribuir à variável)
+
+VAR e LET tem comportamentos diferente
+
+Não é possível redeclarar uma variável com LET.
+
+VAR caiu em desuso, usamos apenas CONST e LET.
+
+Não é possível fazer atribuição à CONST, ela não MUDA.
+
+DICA: Evitar nome genéricos e siglas
+Exemplo: 
+let valor = '' (qual valor?)
+let numero = 1 
+let pqp = false  // Produto Químico Perigoso // 
+
+REGRA: Nome da variavel nunca pode conter espaço. Pode-se incluir _
+
+TIPOS EM JS: NUMBER
+
+toFixed não altera CONSTANTES.
+
+→ MATH
+
+Math é um objeto.
+
+→ STRING
+
+É uma cadeia de caracteres.
+
+Você pode delimitar uma string por ""(aspas dupla), ' ' (aspas simples), `´(crase).
+
+TIPOS BOOLEAN
+
+Os tipos BOOLEAN só podem suportar verdadeiro ou falso.
+
+→ SÍMBOLOS E SEUS SIGNIFICADOS:
+
+(=)→ Atribuição
+' " ``→ String
+[]→ Array
+{}→ Objeto
