@@ -30,3 +30,5 @@ console.log('pra finalizar...')
 console.log(!!('' || null || 0 || ' ')) //  || → Significa OU
 let nome = 'Davi Lucca'
 console.log(nome || 'Desconhecido')
+
+// Comentario para testar o git!
